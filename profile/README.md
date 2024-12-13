@@ -38,11 +38,12 @@ basta acessar o link: [Apresentação no Youtube]()
 
 ### Repositório
 
-Repositório que compõem a aplicação e a infraestrutura
+Repositório que compõem a aplicação e a infraestrutura.
 
-- **[API](https://github.com/fiap-soat-12/fiap-soat-tech-challenge-api)**: Contém os arquivos de criação da API da aplicação.
-- **[VPC](https://github.com/fiap-soat-12/fiap-soat-tech-challenge-vpc)**: Contém os arquivos terraform de criação da VPC.
-- **[DB](https://github.com/fiap-soat-12/fiap-soat-tech-challenge-db)**: Contém os arquivos terraform de criação do Banco de Dados no RDS.
-- **[K8S](https://github.com/fiap-soat-12/fiap-soat-tech-challenge-k8s)**: Contém os arquivos terraform de criação do Cluster e Infraestrutura da aplicação.
-- **[Lambda Auth](https://github.com/fiap-soat-12/fiap-soat-tech-challenge-lambda-auth)**: Contém os arquivos terraform de criação da Lambda Authorize.
-- **[Gateway](https://github.com/fiap-soat-12/fiap-soat-tech-challenge-gateway)**: Contém os arquivos terraform de criação da API Gateway.
+Ordem de execução: 
+1. **[API](https://github.com/fiap-soat-12/fiap-soat-tech-challenge-api)**: Contém os arquivos de criação da API da aplicação.
+2. **[VPC](https://github.com/fiap-soat-12/fiap-soat-tech-challenge-vpc)**: Contém os arquivos terraform de criação da VPC.
+3. **[DB](https://github.com/fiap-soat-12/fiap-soat-tech-challenge-db)**: Contém os arquivos terraform de criação do Banco de Dados no RDS.
+4. **[K8S](https://github.com/fiap-soat-12/fiap-soat-tech-challenge-k8s)**: Contém os arquivos terraform de criação do Cluster e Infraestrutura da aplicação.
+5. **[Lambda Auth](https://github.com/fiap-soat-12/fiap-soat-tech-challenge-lambda-auth)**: Contém os arquivos terraform de criação da Lambda Authorize.
+6. **[Gateway](https://github.com/fiap-soat-12/fiap-soat-tech-challenge-gateway)**: Contém os arquivos terraform de criação da API Gateway.

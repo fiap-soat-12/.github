@@ -34,7 +34,7 @@ Para assistir ao vídeo de apresentação do projeto, que contém:
 - Solução de infraestrutura proposta
 - Demonstração da aplicação em funcionamento
 
-basta acessar o link: [Apresentação no Youtube]()
+basta acessar o link: [Apresentação no Youtube](https://www.youtube.com/watch?v=KRY-Z74_NAk)
 
 ### Repositório
 

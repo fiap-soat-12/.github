@@ -44,10 +44,10 @@ Ordem de execução:
 1. **[VPC](https://github.com/fiap-soat-12/tech-challenge-vpc)**: Contém os arquivos terraform de criação da VPC.
 2. **[Queue](https://github.com/fiap-soat-12/tech-challenge-queue)**: Contém os arquivos terraform de criação das filas usando o SQS.
 3. **[BD](https://github.com/fiap-soat-12/tech-challenge-db)**: Contém os arquivos terraform de criação dos Bancos de Dados no RDS.
-4. **[Cook API](https://github.com/fiap-soat-12/tech-challenge-cook-api)**: Contém os arquivos terraform de criação da Cook API e do ECR da aplicação.
-5. **[Order API](https://github.com/fiap-soat-12/tech-challenge-order-api)**: Contém os arquivos terraform de criação da Order API e do ECR da aplicação.
-6. **[Payment API](https://github.com/fiap-soat-12/tech-challenge-payment-api)**: Contém os arquivos terraform de criação da Payment API e do ECR da aplicação.
-7. **[K8S](https://github.com/fiap-soat-12/tech-challenge-k8s)**: Contém os arquivos terraform de criação do Cluster e Infraestrutura da aplicação.
+4. **[K8S](https://github.com/fiap-soat-12/tech-challenge-k8s)**: Contém os arquivos terraform de criação do Cluster e Infraestrutura da aplicação.
+5. **[Cook API](https://github.com/fiap-soat-12/tech-challenge-cook-api)**: Contém os arquivos terraform de criação da Cook API e do ECR da aplicação.
+6. **[Order API](https://github.com/fiap-soat-12/tech-challenge-order-api)**: Contém os arquivos terraform de criação da Order API e do ECR da aplicação.
+7. **[Payment API](https://github.com/fiap-soat-12/tech-challenge-payment-api)**: Contém os arquivos terraform de criação da Payment API e do ECR da aplicação.
 8. **[Lambda Auth](https://github.com/fiap-soat-12/tech-challenge-lambda-auth)**: Contém os arquivos terraform de criação da Lambda Authorize.
 9. **[Gateway](https://github.com/fiap-soat-12/tech-challenge-gateway)**: Contém os arquivos terraform de criação da API Gateway.
 10. **[BDD](https://github.com/fiap-soat-12/tech-challenge-bdd)**: Contém os arquivos relacionados ao teste DBB da aplicação como todo.

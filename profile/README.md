@@ -50,3 +50,5 @@ Ordem de execução:
 7. **[Payment API](https://github.com/fiap-soat-12/tech-challenge-payment-api)**: Contém os arquivos terraform de criação da Payment API e do ECR da aplicação.
 8. **[Lambda Auth](https://github.com/fiap-soat-12/tech-challenge-lambda-auth)**: Contém os arquivos terraform de criação da Lambda Authorize.
 9. **[Gateway](https://github.com/fiap-soat-12/tech-challenge-gateway)**: Contém os arquivos terraform de criação da API Gateway.
+10. **[BDD](https://github.com/fiap-soat-12/tech-challenge-bdd)**: Contém os arquivos relacionados ao teste DBB da aplicação como todo.
+

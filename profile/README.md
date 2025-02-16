@@ -2,7 +2,7 @@
 
 # Pós Tech FIAP - Tech Challenge - Grupo 12
 
-![GitHub Release Date](https://img.shields.io/badge/Release%20Date-Dezembro%202024-yellowgreen)
+![GitHub Release Date](https://img.shields.io/badge/Release%20Date-Fevereiro%202025-yellowgreen)
 ![](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellowgreen)
 <br>
 ![](https://img.shields.io/badge/Version-%20v4.0.0-brightgreen)
